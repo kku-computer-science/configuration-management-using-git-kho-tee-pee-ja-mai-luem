@@ -8,7 +8,7 @@
 |------|-----------|-----------------|
 | Phuri Charicha | 663380228-3 | Main program, project structure, documentation |
 | Witthawin Boonsamorn | – | quick_sort.py implementation |
-| Sawanya Sirimul | – | bubble_sort.py implementation |
+| Sawanya Sirimul | 663380238-0 | bubble_sort.py implementation |
 
 ---
 

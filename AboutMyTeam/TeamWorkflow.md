@@ -7,7 +7,7 @@
 | Name | Student ID | Responsibility |
 |------|-----------|-----------------|
 | Phuri Charicha | 663380228-3 | Main program, project structure, documentation |
-| Witthawin Boonsamorn | – | quick_sort.py implementation |
+| Witthawin Boonsamorn | 663380233-0 | quick_sort.py implementation |
 | Sawanya Sirimul | 663380238-0 | bubble_sort.py implementation |
 
 ---
@@ -206,22 +206,3 @@ git push origin feature/quick-sort
 ```
 
 ---
-
-### 7️⃣ Communication
-
-- 📱 ใช้กลุ่มแชท Messenger/LINE สำหรับถามตอบ
-- 🐛 ถ้ามีปัญหา algorithm ให้แจ้งผู้รับผิดชอบโค้ดนั้น ๆ
-- 🔀 หาก merge conflict ให้แก้ไขร่วมกัน
-
----
-
-### 8️⃣ Timeline
-
-| วันที่ | งาน |
-|------|------|
-| **วันแรก** | สร้าง repo และ project structure |
-| **วันถัดมา** | เขียน algorithms แต่ละไฟล์ |
-| **หลังจากนั้น** | เขียน main.py |
-| **สุดท้าย** | Test + Review + Final merge |
-
-

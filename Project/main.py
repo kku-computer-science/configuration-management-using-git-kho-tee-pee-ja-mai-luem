@@ -26,6 +26,12 @@ def get_integer_list():
 
 
 def show_menu():
+    '''
+    Docstring for show_menu
+    แสดงเมนูการเลือกอัลกอริทึมการจัดเรียง
+    คืนค่าตัวเลือกที่ผู้ใช้ป้อน
+    '''
+
     print("\n=== Sorting Menu ===")
     print("1. Bubble Sort")
     print("2. Quick Sort")

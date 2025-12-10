@@ -1,3 +1,3 @@
-Author: นางสาวศวรรยา ศิริมูล 
+Author: ศวรรยา ศิริมูล 
 Section : 2 
-I am responsible for: Bubble Sort 
+I am responsible for: Bubble Sort

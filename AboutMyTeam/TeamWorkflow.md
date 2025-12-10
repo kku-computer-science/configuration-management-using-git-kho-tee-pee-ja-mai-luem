@@ -62,10 +62,9 @@
 
 | งาน | Branch Name |
 |-----|-------------|
-| Quick Sort | `feature/quick-sort` |
-| Bubble Sort | `feature/bubble-sort` |
-| Main Program | `feature/main` |
-| Documentation | `docs/workflow` |
+| Quick Sort | `Witthabin_2330` |
+| Bubble Sort | `Sawanya_2380` |
+| Main Program | `Phuri_2283` |
 
 #### 📏 กฎการทำงาน
 

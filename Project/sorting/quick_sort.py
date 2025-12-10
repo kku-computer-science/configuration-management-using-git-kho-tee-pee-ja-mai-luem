@@ -33,5 +33,5 @@ if __name__ == "__main__":
 
     print(input_numbers)
     print("Running Quick Sort Algorithm...")
-    result = quick_sort(input_numbers)
-    print("\nFinal Result:", result)
+    final_result = quick_sort(input_numbers)
+    print("\nFinal Result:", final_result)

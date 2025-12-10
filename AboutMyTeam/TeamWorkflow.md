@@ -37,8 +37,6 @@
       │     └── bubble_sort.py
       │
       ├── main.py
-      ├── test/
-      │     └── test_sorting.py
       │
       └── README.md
 ```

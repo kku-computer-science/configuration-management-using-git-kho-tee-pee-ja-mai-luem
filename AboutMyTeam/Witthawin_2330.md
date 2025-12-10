@@ -1,0 +1,3 @@
+Author: นางสาวศวรรยา ศิริมูล 
+Section : 2 
+I am responsible for: Quick Sort 

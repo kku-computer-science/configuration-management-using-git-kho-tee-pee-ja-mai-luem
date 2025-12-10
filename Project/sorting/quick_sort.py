@@ -28,9 +28,10 @@ def quick_sort(arr):
     sorted_right = quick_sort(right)
     return sorted_left + [pivot] + sorted_right
 
-input_numbers = list(map(int, input("Enter list of number: ").split()))
+if __name__ == "__main__":
+    input_numbers = list(map(int, input("Enter list of number: ").split()))
 
-print(input_numbers)
-print("Running Quick Sort Algorithm...")
-result = quick_sort(input_numbers)
-print("\nFinal Result:", result)
+    print(input_numbers)
+    print("Running Quick Sort Algorithm...")
+    result = quick_sort(input_numbers)
+    print("\nFinal Result:", result)
